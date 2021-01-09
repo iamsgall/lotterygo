@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 import {AwesomeButton} from 'react-awesome-button';
-import 'react-awesome-button/dist/styles.css';
 import Footer from '../components/Footer';
 import {pickNumbers, test} from '../functions/lottery';
 import {useState} from 'react';
