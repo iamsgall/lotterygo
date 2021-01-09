@@ -2,13 +2,13 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(rgba(190, 30, 45, 0.3)),
+    to(rgba(255, 190, 0, 0.3))
+  );
 }
 
 * {
